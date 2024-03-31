@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='Booklover',
-      version='1',
+      version='0.1',
       description='Functions to track book reading and ratings',
       url='https://github.com/sr-hawk/Booklover',
       author='Alec Pixton',
